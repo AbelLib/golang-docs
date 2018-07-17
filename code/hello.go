@@ -1,3 +1,7 @@
-package code
+package main
 
-func 
+import "fmt"
+
+func main() {
+	fmt.Println("Hello, Wolrd")
+}
