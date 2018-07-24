@@ -1,11 +1,23 @@
 # Golang notes
 在学习golang的过程中将常用的知识点和内容以笔记的形式记录下来。
 
-## 目录
-* go语言简介
-* 环境搭建
-* go环境变量
-* 变量和常量
-* 条件语句
-* 函数
-* 指针
+## [目录](https://github.com/Abelibrary/go-notes)
+* [基础](https://github.com/Abelibrary/go-notes/tree/master/docs/%E5%9F%BA%E7%A1%80)
+    * [go语言简介](https://github.com/Abelibrary/go-notes/blob/master/docs/%E5%9F%BA%E7%A1%80/go%E8%AF%AD%E8%A8%80%E7%AE%80%E4%BB%8B.md)
+    * [环境搭建](https://github.com/Abelibrary/go-notes/blob/master/docs/%E5%9F%BA%E7%A1%80/%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA.md)
+    * [类型、变量和常量](https://github.com/Abelibrary/go-notes/blob/master/docs/%E5%9F%BA%E7%A1%80/%E7%B1%BB%E5%9E%8B%E3%80%81%E5%8F%98%E9%87%8F%E5%92%8C%E5%B8%B8%E9%87%8F.md)
+    * [条件语句](https://github.com/Abelibrary/go-notes/blob/master/docs/%E5%9F%BA%E7%A1%80/%E6%9D%A1%E4%BB%B6%E8%AF%AD%E5%8F%A5.md)
+    * [函数](https://github.com/Abelibrary/go-notes/blob/master/docs/%E5%9F%BA%E7%A1%80/%E5%87%BD%E6%95%B0.md)
+    * [指针](https://github.com/Abelibrary/go-notes/blob/master/docs/%E5%9F%BA%E7%A1%80/%E6%8C%87%E9%92%88.md)
+* [内建容器](https://github.com/Abelibrary/go-notes/tree/master/docs/%E5%86%85%E5%BB%BA%E5%AE%B9%E5%99%A8)
+    * [数组](https://github.com/Abelibrary/go-notes/blob/master/docs/%E5%86%85%E5%BB%BA%E5%AE%B9%E5%99%A8/%E6%95%B0%E7%BB%84.md)
+    * [slice切片](https://github.com/Abelibrary/go-notes/blob/master/docs/%E5%86%85%E5%BB%BA%E5%AE%B9%E5%99%A8/slice%E5%88%87%E7%89%87.md)
+    * [map](https://github.com/Abelibrary/go-notes/blob/master/docs/%E5%86%85%E5%BB%BA%E5%AE%B9%E5%99%A8/map.md)
+    * [字符串](https://github.com/Abelibrary/go-notes/blob/master/docs/%E5%86%85%E5%BB%BA%E5%AE%B9%E5%99%A8/%E5%AD%97%E7%AC%A6%E4%B8%B2.md)
+* [对象、接口、结构](https://github.com/Abelibrary/go-notes/tree/master/docs/%E5%AF%B9%E8%B1%A1%E3%80%81%E6%8E%A5%E5%8F%A3%E3%80%81%E7%BB%93%E6%9E%84)
+    * [结构体struct](https://github.com/Abelibrary/go-notes/blob/master/docs/%E5%AF%B9%E8%B1%A1%E3%80%81%E6%8E%A5%E5%8F%A3%E3%80%81%E7%BB%93%E6%9E%84/%E7%BB%93%E6%9E%84%E4%BD%93struct.md)
+    * [Go语言的封装](https://github.com/Abelibrary/go-notes/blob/master/docs/%E5%AF%B9%E8%B1%A1%E3%80%81%E6%8E%A5%E5%8F%A3%E3%80%81%E7%BB%93%E6%9E%84/Go%E8%AF%AD%E8%A8%80%E7%9A%84%E5%B0%81%E8%A3%85.md)
+    * [Go语言的package](https://github.com/Abelibrary/go-notes/blob/master/docs/%E5%AF%B9%E8%B1%A1%E3%80%81%E6%8E%A5%E5%8F%A3%E3%80%81%E7%BB%93%E6%9E%84/Go%E8%AF%AD%E8%A8%80%E7%9A%84package.md)
+    * [已有类型扩展](https://github.com/Abelibrary/go-notes/blob/master/docs/%E5%AF%B9%E8%B1%A1%E3%80%81%E6%8E%A5%E5%8F%A3%E3%80%81%E7%BB%93%E6%9E%84/%E5%B7%B2%E6%9C%89%E7%B1%BB%E5%9E%8B%E6%89%A9%E5%B1%95.md)
+    * [接口](https://github.com/Abelibrary/go-notes/blob/master/docs/%E5%AF%B9%E8%B1%A1%E3%80%81%E6%8E%A5%E5%8F%A3%E3%80%81%E7%BB%93%E6%9E%84/%E6%8E%A5%E5%8F%A3.md)
+    * [GOPATH环境变量]()
