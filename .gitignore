@@ -1,2 +1,6 @@
 .idea
 .vscode
+.py
+.js
+node_modules
+settings.json
