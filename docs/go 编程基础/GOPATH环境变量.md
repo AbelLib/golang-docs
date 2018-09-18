@@ -1,4 +1,9 @@
 # GOPATH环境变量
+按照约定 GOPATH 下面需要建立 3 个目录：
+* bin 存放编译后生成的可执行文件
+* pkg 存放编译后生成的包文件
+* src 存放项目源码文件
+
 对于Unix和Linux默认环境变量在`~/go`下。使用`go env`:
 ```shell
 GOARCH="amd64"
