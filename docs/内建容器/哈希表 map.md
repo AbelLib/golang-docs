@@ -47,6 +47,17 @@ map可以通过range对key和value进行遍历，具体方式可以类比成数�
 ```go
    delete(m, key1)
 ```
+4. 遍历 map
+可以使用 range 函数对 map 进行遍历，由于 map 的无序性，所以遍历输出的顺序和插入顺序无关。
+```go
+    sm := make([]map[int]string, 5)
+    for i := range sm{
+        sm[i] = make(map[int]string, 1)
+        sm[i][1] = "ok"
+        fmt.Println(sm[i])
+    }
+    fmt.Println(sm)
+```
 ## map的key
 * map底层采用hash表实现，key必须要能比较大小；
 * 除了slice，map，function的内建类型都可以作为key；

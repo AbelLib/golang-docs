@@ -13,3 +13,6 @@ go语言中没有单个字节的char类型，在其他语言如Java，C++都是�
 * `Contains`, `Index`
 * `ToLower`, `ToUpper`
 * `Trim`, `TrimRight`, `TrimLeft`
+
+## 字符串处理函数
+Go内置了`strings`包用于处理字符串。
